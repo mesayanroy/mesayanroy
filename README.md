@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Sayan Roy
-- 👀 I’m interested in ...Web 3 and AI integrated mmodels
-- 🌱 I’m currently learning ... Javascript,React
-- 💞️ I’m looking to collaborate on ... Front-end
-- 📫 How to reach me ...via mail or socials @meayanroy
-- 😄 Pronouns: ... he /him
-- ⚡ Fun fact: ... I don't know how to fast type')
+Hey I'm Sayan Roy
+Contributor at GSSC
+• Google Developer Group <GDG/>
+• 2-hackathons • 1-Ideathon 
+currently learning Javascript,React,Web-3 enthusiast, Solana,ETH
+I’m looking to collaborate on Front-end
+- 📫 socials @meayanroy rsayan570@gmail.com
 
 <!---
 mesayanroy/mesayanroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
