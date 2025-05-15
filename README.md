@@ -3,7 +3,7 @@
 🧑‍💻 Senior Open source Contributor at GSSC'24<br/>
 🌐 Technical executive at GeeksforGeeks in SNU techclub<br/>
 🏛️ Evangelist at Eastern India's biggest hackathon community<br/>
-🥇 Won x 1 & got speacial mentions in few Honourable Hackathons.<br/> 
+🥇3 × Hackathon Winner 🏆 & got speacial mentions in few Honourable Hackathons.<br/> 
 📫 - rsayan570@gmail.com | [Linkedin] - https://www.linkedin.com/in/sayan-roy-111278321/
 
 
