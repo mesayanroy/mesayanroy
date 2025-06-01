@@ -4,7 +4,7 @@
 🌐 Technical executive at GeeksforGeeks in SNU techclub<br/>
 🏛️ Evangelist at Eastern India's biggest hackathon community<br/>
 🥇2 × Hackathon Winner 🏆 & got speacial mentions in few Honourable Hackathons.<br/> 
-📫 - rsayan570@gmail.com | [Linkedin] - https://www.linkedin.com/in/sayan-roy-111278321/
+📫 - rsayan570@gmail.com | [Linkedin] - https://www.linkedin.com/in/sayan-roy-111278321/<br/>
 PORTFOLIO -> https://mesayanroy.vercel.app/
 
 
