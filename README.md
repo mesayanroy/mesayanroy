@@ -5,7 +5,7 @@
 🏛️ Working as a Backend Engineer at a start-up<br/>
 🥇 3 × Hackathon Winner 🏆 & got speacial mentions in few Honourable Hackathons.<br/> 
 📫 - rsayan570@gmail.com | [Linkedin] - https://www.linkedin.com/in/sayan-roy-111278321/<br/>
-PORTFOLIO => https://mesayanroy.vercel.app/
+PORTFOLIO =>https://ai-portfolio-2-0.vercel.app/
 
 
 ## 🌐 Socials:
