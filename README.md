@@ -5,7 +5,7 @@
 🏛️ Working as a Full Stack Engineer at Snaapify<br/>
 🥇 3 × Hackathon Winner 🏆 & got speacial mentions in few Honourable Hackathons.<br/> 
 📫 - rsayan570@gmail.com | [Linkedin] - https://www.linkedin.com/in/sayan-roy-111278321/<br/>
-PORTFOLIO =>https://ai-portfolio-2-0.vercel.app/
+Portfolio - https://mesayanroy.vercel.app/
 
 
 ## 🌐 Socials:
