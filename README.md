@@ -4,7 +4,6 @@
 🥇 Hackfest'25 Hackathon National Finalist <br/>
 🏛️ Working as a Full Stack Engineer at Snaapify<br/>
 🥇 3 × Hackathon Winner 🏆 & got speacial mentions in few Honourable Hackathons.<br/> 
-📫 - rsayan570@gmail.com 
 Portfolio - https://mesayanroy.vercel.app/
 
 
