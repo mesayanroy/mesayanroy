@@ -3,6 +3,7 @@
 🌐 Technical executive at GeeksforGeeks in SNU techclub<br/>
 🥇 Hackfest'25 Hackathon National Finalist <br/>
 🏛️ Working as a Full Stack Engineer at Snaapify<br/>
+🏛️ Working as Indian Ambassador & Developer at Stellar<br/>
 🥇 3 × Hackathon Winner 🏆 & got speacial mentions in few Honourable Hackathons.<br/> 
 Portfolio - https://sayanroy.tech
 
